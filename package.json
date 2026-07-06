@@ -1,0 +1,26 @@
+{
+  "name": "rankiir-serp-checker",
+  "version": "1.0.0",
+  "description": "SERP Checker checks your Google search rankings and SERP positions for any keyword",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "serp-checker",
+    "serp",
+    "rank-checker",
+    "seo",
+    "google-serp",
+    "search-rankings",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Rankiir",
+  "license": "ISC",
+  "homepage": "https://rankiir.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankiir/serp-checker.git"
+  }
+}
